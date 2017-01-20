@@ -1,0 +1,32 @@
+body {
+	text-align;center;
+	background-color:#3e9b3c;
+
+}
+.jumbotron{
+	text-align:center;
+	background-color: #853c9b;
+}
+.buttons{
+	text-align:center;
+	
+}
+.btn.btn-default{
+	margin-right:20px;
+}
+
+.scope{
+	text-align:center;
+}
+.picture{
+	height:200px;
+}
+.famous{
+	text-align:center;
+	padding-top:30px;
+	font-family:"Helvetica Neue";
+}
+.dates{
+	text-align:center;
+}
+
